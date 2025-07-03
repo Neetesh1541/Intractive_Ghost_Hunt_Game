@@ -1,6 +1,7 @@
 👻 Ghost Hunt Game
 Live Demo 🎮
 https://sparkling-clafoutis-abb4cd.netlify.app/
+
 🚀 About the Game
 Ghost Hunt is a fun, spooky browser-based game where you hunt floating ghosts before they vanish! Catch as many ghosts as you can in 30 seconds, increase your score, and challenge yourself across multiple difficulty levels.
 
